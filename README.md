@@ -1,1 +1,1 @@
-Codificado e decodificador de Texto.
+Codificador e decodificador de Texto.
